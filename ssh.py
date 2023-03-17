@@ -1,4 +1,4 @@
-# 리스트 생성
+# asdawfasfasfsferdghfkjegiusdfij
 numbers = [1, 2, 3, 4, 5]
 
 # 반복문을 이용하여 리스트의 요소 출력
